@@ -14,7 +14,6 @@ Many of my exercises are measured by **time and repetitions**, and are split int
 
 - **Exercises split into blocks.** Each exercise is a sequence of timed blocks, each with its own short instruction.
 - **Sound cues for every block change.** The number of tones matches the block you're starting (two tones means block 2), so you know where you are without looking at the screen. A pre-warning comes before each change and a different cue plays at the end.
-- **Metronome** at the exercise's BPM. It lowers its volume while a cue plays, and you can mute it with one tap.
 - **Visual block progress**: a segmented ring shows the current block and the time left.
 - **A friendlier, more modern visual design** across the whole flow: today's plan, mood check-in, exercise guide and instructions, the exercise itself, then a short self-assessment and a report for the therapist.
 
