@@ -17,7 +17,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.beeffic.terapiavisual",
+      "package": "com.eduardogomezpueyo.terapiavisual",
       "softwareKeyboardLayoutMode": "pan",
       "permissions": [
         "android.permission.RECORD_AUDIO",
@@ -40,7 +40,7 @@
       "expo-font",
       "expo-asset"
     ],
-    "scheme": "beeffic",
+    "scheme": "terapiavisual",
     "experiments": {
       "typedRoutes": false
     },
