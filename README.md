@@ -4,7 +4,10 @@
 
 I'm a product designer, and I do my visual therapy exercises with this app every day. This repo is a working prototype of how I think it should work, built with Expo, React Native and TypeScript.
 
-<!-- Screenshots: add before/after images here -->
+| Current app | Redesign |
+|---|---|
+| <img src="docs/screenshots/before-today-plan.jpeg" width="260" alt="Current app: today's plan"> | <img src="docs/screenshots/01-today-plan-updated.jpeg" width="260" alt="Redesign: today's plan with the plan-updated banner"> |
+| <img src="docs/screenshots/before-exercise-running.jpeg" width="260" alt="Current app: running exercise with a single timer"> | <img src="docs/screenshots/06-exercise-running.jpeg" width="260" alt="Redesign: running exercise with the segmented block ring"> |
 
 ## The problem
 
@@ -16,6 +19,15 @@ Many of my exercises are measured by **time and repetitions**, and are split int
 - **Sound cues for every block change.** The number of tones matches the block you're starting (two tones means block 2), so you know where you are without looking at the screen. A pre-warning comes before each change and a different cue plays at the end.
 - **Visual block progress**: a segmented ring shows the current block and the time left.
 - **A friendlier, more modern visual design** across the whole flow: today's plan, mood check-in, exercise guide and instructions, the exercise itself, then a short self-assessment and a report for the therapist.
+
+## The flow
+
+| | | |
+|---|---|---|
+| <img src="docs/screenshots/01-today-plan-updated.jpeg" width="220" alt="Today's plan"><br>Today's plan | <img src="docs/screenshots/02-plan-update-sheet.jpeg" width="220" alt="Plan update sheet"><br>What the therapist changed | <img src="docs/screenshots/03-mood-checkin-b.jpeg" width="220" alt="Mood check-in"><br>Mood check-in |
+| <img src="docs/screenshots/04-exercise-guide.jpeg" width="220" alt="Exercise guide"><br>Exercise guide | <img src="docs/screenshots/05-instructions.jpeg" width="220" alt="Instructions"><br>Instructions | <img src="docs/screenshots/06-exercise-running.jpeg" width="220" alt="Running exercise"><br>Exercise in blocks |
+| <img src="docs/screenshots/07-block-change.jpeg" width="220" alt="Block change overlay"><br>Block change | <img src="docs/screenshots/09-exercise-done.jpeg" width="220" alt="Exercise done"><br>Exercise done | <img src="docs/screenshots/08-self-assessment.jpeg" width="220" alt="Self-assessment"><br>Self-assessment |
+| <img src="docs/screenshots/10-session-end.jpeg" width="220" alt="End of session"><br>End of session | | |
 
 ## Run it
 
